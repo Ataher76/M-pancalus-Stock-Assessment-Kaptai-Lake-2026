@@ -5,7 +5,7 @@
 
 ## **Project Overview**
 This repository contains the primary length-frequency datasets and R code supporting the manuscript:  
-**"Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh"** (Manuscript ID: cjfas-2026-0138).
+**"Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh"**.
 
 The study utilizes three distinct length-based models—**TropFishR**, **LBB**, and **LBSPR**—to evaluate the health and sustainability of the barred spiny eel fishery in Kaptai Lake.
 
