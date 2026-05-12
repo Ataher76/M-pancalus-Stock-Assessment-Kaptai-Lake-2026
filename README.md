@@ -27,7 +27,7 @@ All data and scripts are made publicly available to ensure reproducibility and t
 ## **How to Cite**
 If you utilize the data or code in this repository, please cite the manuscript:
 
-> Islam, M. R., Alam, M. S., Nakib, N., Paran, M. S., & Ali, A. (2026). **Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh.** *submitted at Limonologica*.
+> Islam, M. R., Alam, M. S., Nakib, N., Paran, M. S., & Ali, A. (2026). **Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh.** *submitted*.
 
 ---
 
