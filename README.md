@@ -1,7 +1,7 @@
 # Multi-Model Stock Assessment of Macrognathus pancalus in Kaptai Lake
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/1226833832.svg)](https://doi.org/10.5281/zenodo.19962119)
+[![DOI](https://zenodo.org/badge/1226833832.svg)](https://doi.org/10.5281/zenodo.20142954)
 
 ## **Project Overview**
 This repository contains the primary length-frequency datasets and R code supporting the manuscript:  
