@@ -12,7 +12,7 @@ The study utilizes three distinct length-based models—**TropFishR**, **LBB**, 
 ---
 
 ## **Data and Code Availability**
-All data and scripts are made publicly available to ensure reproducibility and transparency in accordance with the *Canadian Journal of Fisheries and Aquatic Sciences* data policy.
+All data and scripts are made publicly available to ensure reproducibility and transparency in accordance with the *Limonologica* data policy.
 
 ### **Repository Contents**
 *   **`/Data`**: Monthly length-frequency data for *M. pancalus* collected from Kaptai Lake.
@@ -27,7 +27,7 @@ All data and scripts are made publicly available to ensure reproducibility and t
 ## **How to Cite**
 If you utilize the data or code in this repository, please cite the manuscript:
 
-> Islam, M. R., Alam, M. S., Nakib, N., Paran, M. S., & Ali, A. (2026). **Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh.** *Canadian Journal of Fisheries and Aquatic Sciences*. (Manuscript ID: cjfas-2026-0138).
+> Islam, M. R., Alam, M. S., Nakib, N., Paran, M. S., & Ali, A. (2026). **Multi-Model Length Based Stock Assessment of Macrognathus Pancalus (The Barred Spiny Eel) In Kaptai Lake, Bangladesh.** *submitted at Limonologica*.
 
 ---
 
